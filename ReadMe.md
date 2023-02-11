@@ -1,8 +1,5 @@
-# ProxDocs
-ProxDocs is a highly detailed and useful guide to hosting a web proxy site.
-
-## Why?
-Making "sufficient" documentation for a proxy site is difficult and lengthy. This Docs exists so that proxy site developers do not have to make lengthy documentation for their site, but can rather point users to this instead, allowing aspiring self-hosters to more easily be able to set up their own instance of your site!
+# ThingsWeb
+ guide to hosting a web proxy site.
 
 ## Table Of Contents
 - [Setup](https://github.com/TheNearEnd/ThingsWeb/blob/main/Setup.md)
