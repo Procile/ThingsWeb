@@ -9,11 +9,19 @@ sudo apt-get install -y nodejs
 ```
 verify you have the correct version of nodejs :
 ```sh
-nodejs -v
+node -v
 ```
 Output :
 ```sh
-
+V19.6.0
+```
+verify you have the correct version of npm :
+```sh
+npm -v
+```
+Output :
+```sh
+9.4.0
 ```
 ## Install Git
 If you haven't already install Git
