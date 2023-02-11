@@ -31,7 +31,7 @@ sudo apt install git
 ## Cloning
 Cloning ThingsWeb is as simple as running `git clone`, and then the link to the repository :
 ```sh
-sudo git clone https://github.com/Degen-dev/Degeneracy](https://github.com/Darkness-Organization/Neb)
+sudo git clone https://github.com/Darkness-Organization/Neb
 ```
 ## Installing Dependencies
 Go inside the CD :
