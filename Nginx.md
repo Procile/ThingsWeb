@@ -6,7 +6,13 @@ Assuming you are running a Linux system based off of Debian, run the following c
 $ sudo apt install nginx
 ```
 
-After you have Nginx installed, configure it in `/etc/nginx/nginx.conf`. The configuration I would recommend can be found below:
+After you have Nginx installed, configure it in `/etc/nginx/nginx.conf`. 
+## How to access nginx.conf
+just run this command :
+```
+nano /etc/nginx/nginx.conf
+```
+The configuration I would recommend can be found below:
 ```nginx
 user root; # change this to be the user you are hosting your instance on
 worker_processes auto;
