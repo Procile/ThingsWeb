@@ -15,14 +15,6 @@ Output :
 ```sh
 
 ```
-verify you have the correct version of npm :
-```sh
-nodejs -v
-```
-Output :
-```sh
-
-```
 ## Install Git
 If you haven't already install Git
 ```sh
