@@ -59,7 +59,3 @@ http {
     }
 }
 ```
-
-## Authors
-- [Degen-dev (Degenerate)](https://github.com/Degen-dev)
-- [EnderKingJ](https://github.com/EnderKingJ)
