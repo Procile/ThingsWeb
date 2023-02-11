@@ -3,30 +3,35 @@ If you haven't already install the latest version of Nodejs
 ```sh
 curl -fsSL https://rpm.nodesource.com/setup_current.x | bash -
 ```
+verify you have the correct version of nodejs :
+```
+nodejs -v
+```
+Output :
+```
+
+```
 ## Install Git
 If you haven't already install Git
 ```
 sudo apt install git
 ```
 ## Cloning
-Cloning a proxy is as simple as running `git clone`, and then the link to the repository. See an example below:
+Cloning ThingsWeb is as simple as running `git clone`, and then the link to the repository :
 ```sh
-$ git clone https://github.com/Degen-dev/Degeneracy
+sudo git clone https://github.com/Degen-dev/Degeneracy](https://github.com/Darkness-Organization/Neb)
 ```
-
-Be sure to replace `Degen-dev/Degeneracy` with the repo to the proxy you are trying to clone, assuming you are not trying to clone Degeneracy.
-
 ## Installing Dependencies
-Web proxies and proxy sites will have dependencies in order to get them up and running. In general, a proxy site will use a Node.js framework to serve static files and [NPM](https://www.npmjs.com) to install dependencies. To install dependencies, you will need to cd into the repository you just cloned and then run `npm install` The commands can be seen below:
-```sh
-$ cd RepoName
-$ npm install
+Go inside the CD :
 ```
-
-Be sure to change "RepoName" to the actual name of the repo you just cloned.
-
+cd Neb/
+```
+Install npm i :
+```
+npm i
+```
 ## Starting the Site
-Sometimes the creator of a site will include a start script in npm that makes it as simple as possible to start the proxy. See the command below:
+See the command below:
 ```sh
 $ npm start
 ```
